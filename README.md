@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ API, CRM, Client and Mobile application of **_dhan-gaadi_**, an online bus booking system
 
 <p>
@@ -61,3 +62,6 @@ REACT_APP_JWT_SECRET = "your secret here"
 * #### go to app repo
 * #### yarn
 * #### having expo installed in your system, expo start
+=======
+# dhan-gaadi
+>>>>>>> origin/master
